@@ -1,6 +1,6 @@
 # Money Saver
 
-This web application helps me to manage my everyday expenses. 
+The purpose of Money Saver application to help manage the everyday expenses.
 
 ## Getting Started
 
