@@ -17,14 +17,7 @@ The purpose of **Money Saver** application is to help to manage the everyday exp
 To launch the application for the first time, you shall clone it to your PC:
 
 ```bash
-git clone https://github.com/idenisovs/money-saver.git
-```
-
-Then, go inside `money-saver` directory and run the following command:
-
-```bash
-git submodule update --init
-git submodule foreach git submodule update --init
+git clone --recursive git@github.com:idenisovs/money-saver.git
 ```
 
 That will get the latest production versions of [backend](https://github.com/idenisovs/money-saver-backend) and [frontend](https://github.com/idenisovs/money-saver-frontend) parts of application and their submodules too.
