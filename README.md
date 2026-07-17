@@ -6,9 +6,6 @@ The purpose of **Money Saver** application is to help to manage the everyday exp
 
 * [**Git**](https://git-scm.com/) - distributed version control system designed to handle everything;
 * [**Node.js**](https://nodejs.org/en/) - open-source, cross-platform, back-end JavaScript runtime environment;
-
-### Notes
-
 * No database server required at the moment, as data stored with help of [SQLite3](https://www.sqlite.org/index.html);
 * [Memcached](https://memcached.org/) might be used to store client`s sessions but is not necessarily;
 
